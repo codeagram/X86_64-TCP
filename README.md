@@ -1,4 +1,4 @@
-# A simple implementation of TCP server and client in x86-64 Assembly #
+# A simple implementation of TCP server and client in x86_64 Assembly #
 
 Compile with GCC
   
